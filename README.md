@@ -1,2 +1,5 @@
 # LearnAI
-Learning AI from Coursera - Neural Networks &amp; Deep Learning
+Learning AI from Coursera
+
+Assignments: 
+Neural Networks &amp; Deep Learning
